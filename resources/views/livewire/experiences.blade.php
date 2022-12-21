@@ -2,7 +2,7 @@
 
     <div class="card">
      <div class="card-body">
-         <div class="card-title">Data Diri</div>
+         <div class="card-title">Riwayat Pekerjaan</div>
          <table class="table table-stripped mt-5">
              <thead>
                  <tr>
